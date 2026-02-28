@@ -1,0 +1,2 @@
+# Skeledirge.bash
+Linux
